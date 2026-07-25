@@ -42,6 +42,7 @@ return LoginPage();
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.black,
       body: Center(child: SizedBox(
           height: 200,
           width: 200,
